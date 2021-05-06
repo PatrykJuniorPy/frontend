@@ -1,2 +1,2 @@
-# frontned
+# frontend
 front web develop
