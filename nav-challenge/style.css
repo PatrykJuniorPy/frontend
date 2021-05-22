@@ -158,6 +158,8 @@ header {
   background-color: #136c72;
 }
 
+#add a mobile screen
+
 @media (max-width: 800px) {
   .row {
     display: block;
