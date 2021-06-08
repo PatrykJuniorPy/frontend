@@ -79,6 +79,7 @@ h3 {
 }
 
 .image__first {
+  max-width: 100%;
   display: flex;
   justify-content: start;
   border: inset;
