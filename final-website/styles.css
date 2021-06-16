@@ -84,13 +84,22 @@ img {
   background-color: #a59678;
   padding: 0.3em 1.9em 0.3em 1.9em;
   border-radius: 100px;
+  margin-top: 1.5em;
 }
 
 .txt {
   font-family: "Oswald", sans-serif;
   font-size: 90px;
   color: white;
+  text-align: left;
+  margin-left: 0.3em;
+  
 }
+
+.txt-color {
+  color: #A59678;
+}
+
 
 .txt-secondary {
   font-family: "Oswald", sans-serif;
@@ -207,6 +216,7 @@ h5 {
 .nav-link {
   display: flex;
   justify-content: space-between;
+  margin-right: 4em;
 }
 
 .col-special {
@@ -242,7 +252,6 @@ h5 {
     text-align: center;
     width: 90%;
     margin-right: 4em;
-  
   }
 
   .col {
@@ -256,7 +265,7 @@ h5 {
 
 @media (min-width: 800px) {
   .col-special {
-    margin-left: 10em;
+    margin-left: 5em;
   }
 
   .nav__list {
